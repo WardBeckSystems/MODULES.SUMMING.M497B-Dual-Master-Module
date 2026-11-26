@@ -23,7 +23,7 @@ Wiki page: [M497B](../../../../PAGES/M497B.md)
 - **Title block:** (224, 3)–(335, 62) mm: Issu DATE · Revisrn · WARD-Beck Eyolme · WBS · Drm · TR · M4978 · ENG · TR · CKD: Rd_ · DUAL MASTER MOdule · ScHEmATiC · NrP · Cx) · SCALE · 491-02-002
 - **Wiring (first pass):** 67 connected wire groups from 241 runs; labelled ends: 183 mm → 052, 36k, Rs}, R56K]; 157 mm → R45, 75, X3; 149 mm → R56K], Rs6, 75, 254; 138 mm → 75, R4e, X3, Rso; 87 mm → C3l, 220p, Rao, 2K
 
-Every curve, box, word and wire group: [1983 - M497B - 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS (traced).json](../SCHEMATICS/1983%20-%20M497B%20-%20491-02-002%20-%20ARS%20FROHT%20AANEL%20LEVEL%20CONTROLS%20(traced).json) (the CAD file: `1983 - M497B - 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M497B - 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS (traced).json](../SCHEMATICS/1983%20-%20M497B%20-%20491-02-002%20-%20ARS%20FROHT%20AANEL%20LEVEL%20CONTROLS%20%28traced%29.json) (the CAD file: `1983 - M497B - 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS (traced).dxf`).
 
 ## Full text
 

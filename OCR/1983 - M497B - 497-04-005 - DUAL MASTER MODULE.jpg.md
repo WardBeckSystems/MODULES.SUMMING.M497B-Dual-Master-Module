@@ -20,7 +20,7 @@ Wiki page: [M497B](../../../../PAGES/M497B.md)
 - **Words (OCR):** 51 in 34 lines: WBS · M4978 · RiGhT · channa · Iave / · 94in over ronge · controi · lors · from · raferance · nonin · gain 0f +8
 - **Title block:** (142, 0)–(332, 320) mm: WBS · M4978 · RiGhT · channa · Iave / · 94in over ronge · controi · lors · from · raferance · nonin · gain 0f +8 · LEFT CHANMEL Ieve / Erim controi 842 : lors · adjutment channa 94i0 · range · from · 
 
-Every curve, box, word and wire group: [1983 - M497B - 497-04-005 - DUAL MASTER MODULE (traced).json](../MECHANICAL/1983%20-%20M497B%20-%20497-04-005%20-%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1983 - M497B - 497-04-005 - DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M497B - 497-04-005 - DUAL MASTER MODULE (traced).json](../MECHANICAL/1983%20-%20M497B%20-%20497-04-005%20-%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1983 - M497B - 497-04-005 - DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

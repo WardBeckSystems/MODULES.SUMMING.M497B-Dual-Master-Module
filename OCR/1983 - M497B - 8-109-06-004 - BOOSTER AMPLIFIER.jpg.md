@@ -22,7 +22,7 @@ Wiki page: [M497B](../../../../PAGES/M497B.md)
 - **Words (OCR):** 47 in 43 lines: E20 · Fc2= 47k · 33/1' · R2 · RA · 6k2 · R6 · Gk2 · I8k · R7 · 22 · LF356
 - **Title block:** (114, 12)–(332, 114) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK · sysTEMS · DRN: GEB · 8 _ 109€ · ENG.MRW 4/78 · AMPLIFIER · BOOSTER · CKD · Ruk · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-004
 
-Every curve, box, word and wire group: [1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1983%20-%20M497B%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1983%20-%20M497B%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

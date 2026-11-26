@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module.pdf",
+ "page": 20,
+ "version": 1,
+ "trace": "_traces/da430d63e545e8f3-p20.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "20", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.4, 335.4, 420.5],
+ "outlines": {
+  "line": {"rings": 55, "straight": {"n": 1723, "mm": 4598.2}, "curved": {"n": 212, "mm": 310.1}},
+  "text": {"rings": 138, "straight": {"n": 1067, "mm": 1292.4}, "curved": {"n": 310, "mm": 491.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [224.8, 321.3, 240.1, 328.7], "text": "LEFT"},
+   {"mm": [223.2, 315.2, 242.0, 321.7], "text": "LEVEL"},
+   {"mm": [156.5, 304.4, 179.2, 310.9], "text": "INSERT"},
+   {"mm": [41.5, 297.9, 61.3, 304.4], "text": "INPUT"},
+   {"mm": [106.2, 297.9, 118.5, 304.4], "text": "PRE"},
+   {"mm": [252.4, 297.3, 270.1, 303.8], "text": "8.109C"},
+   {"mm": [8.0, 278.1, 63.7, 284.6], "text": "EXTERNAL INPUT"},
+   {"mm": [29.1, 265.6, 46.4, 272.0], "text": "0 dBu"},
+   {"mm": [19.9, 257.4, 28.5, 263.8], "text": "Re"},
+   {"mm": [30.2, 257.1, 59.8, 265.1], "text": "600 ohms"},
+   {"mm": [222.2, 202.5, 241.6, 209.5], "text": "Right"},
+   {"mm": [222.2, 196.5, 239.9, 202.9], "text": "LEVEL"},
+   {"mm": [8.9, 178.1, 62.0, 185.1], "text": "SUMMING INput"},
+   {"mm": [105.1, 178.1, 118.1, 184.6], "text": "PRE"},
+   {"mm": [252.0, 178.5, 269.7, 185.0], "text": "8.109C"},
+   {"mm": [7.6, 158.0, 39.5, 164.5], "text": "EXTERNAL"},
+   {"mm": [43.4, 157.6, 63.7, 164.8], "text": "INPUT"},
+   {"mm": [29.6, 149.4, 46.2, 155.9], "text": "0 dBu"},
+   {"mm": [20.5, 141.4, 59.8, 148.4], "text": "Re 60 0 ohms"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 2–420 mm up",
+  "- **Outlines:** line 55 rings, 1,723 straight (4,598 mm) / 212 curved (310 mm); text 138 rings, 1,067 straight (1,292 mm) / 310 curved (492 mm)",
+  "- **Words (OCR):** 21 in 19 lines: LEFT · LEVEL · INSERT · INPUT · PRE · 8.109C · EXTERNAL INPUT · 0 dBu · Re · 600 ohms · Right · LEVEL"
+ ]
+}

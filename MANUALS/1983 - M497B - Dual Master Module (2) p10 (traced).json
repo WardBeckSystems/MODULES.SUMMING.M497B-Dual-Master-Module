@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/84f959f5ad6b08de-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.3, 13.2, 330.8, 422.3],
+ "outlines": {
+  "line": {"rings": 350, "straight": {"n": 3185, "mm": 5919.7}, "curved": {"n": 837, "mm": 1252.9}},
+  "text": {"rings": 264, "straight": {"n": 1996, "mm": 2256.8}, "curved": {"n": 577, "mm": 934.7}}
+ },
+ "circles": [{"c": [92.4, 187.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [78.4, 275.3, 80.7, 277.4], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [194.3, 243.8, 196.7, 245.9], "w": 2.4, "h": 2.2, "from": "ring"},
+  {"mm": [194.5, 237.1, 196.7, 239.2], "w": 2.2, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 73,
+  "lines": [
+   {"mm": [28.7, 410.9, 47.3, 415.9], "text": "WA Fl"},
+   {"mm": [88.7, 410.9, 132.8, 415.9], "text": "YSTEMS LT"},
+   {"mm": [145.7, 364.7, 180.3, 370.7], "text": "PARTS LIS"},
+   {"mm": [126.3, 350.2, 215.3, 356.7], "text": "97a DUAL ASTER MODULE"},
+   {"mm": [39.1, 324.7, 104.9, 331.0], "text": "PART OESCRIPTION"},
+   {"mm": [238.4, 325.4, 297.1, 331.6], "text": "\"FG PART NU\"BER"},
+   {"mm": [38.9, 308.7, 119.8, 321.1], "text": ".66 Res or laW 51:"},
+   {"mm": [39.3, 297.5, 51.8, 305.9], "text": "nee"},
+   {"mm": [126.1, 298.2, 137.1, 304.2], "text": "J.J"},
+   {"mm": [39.3, 290.4, 47.5, 299.3], "text": "as"},
+   {"mm": [126.1, 284.8, 136.7, 290.8], "text": "J.J"},
+   {"mm": [39.3, 271.2, 49.0, 277.2], "text": "R7l"},
+   {"mm": [126.5, 271.4, 137.5, 277.9], "text": "3.3"},
+   {"mm": [126.5, 265.1, 136.7, 271.1], "text": "390"},
+   {"mm": [39.3, 257.6, 49.7, 264.0], "text": "R7l"},
+   {"mm": [126.5, 258.4, 136.7, 264.4], "text": "390"},
+   {"mm": [63.9, 243.8, 133.4, 249.7], "text": "Inte 2rlte Cf rclIit"},
+   {"mm": [39.5, 231.2, 47.1, 236.7], "text": "U3"},
+   {"mm": [39.3, 218.3, 47.3, 224.0], "text": "U5"},
+   {"mm": [183.1, 183.7, 206.8, 190.4], "text": "xs ce"},
+   {"mm": [235.3, 182.9, 282.4, 188.4], "text": "CQ92: MC- 47JM"},
+   {"mm": [39.5, 92.0, 253.7, 98.0], "text": "WB5 re COlllCle nds he lise of re pl ellle nt pa rts lllad by th"},
+   {"mm": [39.7, 85.3, 74.7, 91.3], "text": "specffied"},
+   {"mm": [87.0, 85.3, 99.1, 91.3], "text": "nllh"},
+   {"mm": [111.2, 85.3, 121.1, 91.3], "text": "llre"},
+   {"mm": [150.9, 85.3, 258.0, 91.3], "text": "contfn ved optl .vlII qv pille nt"},
+   {"mm": [39.7, 78.6, 73.8, 84.6], "text": "pe rfo rlll,n"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–331 mm across, 13–422 mm up",
+  "- **Outlines:** line 350 rings, 3,185 straight (5,920 mm) / 837 curved (1,253 mm); text 264 rings, 1,996 straight (2,257 mm) / 577 curved (935 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (92.4, 187.5)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 73 in 31 lines: WA Fl · YSTEMS LT · PARTS LIS · 97a DUAL ASTER MODULE · PART OESCRIPTION · \"FG PART NU\"BER · .66 Res or laW 51: · nee · J.J · as · J.J · R7l"
+ ]
+}

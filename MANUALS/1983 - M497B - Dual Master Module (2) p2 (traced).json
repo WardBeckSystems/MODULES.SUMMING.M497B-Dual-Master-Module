@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/84f959f5ad6b08de-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 310.5, 424.2],
+ "outlines": {
+  "line": {"rings": 195, "straight": {"n": 1845, "mm": 4574.0}, "curved": {"n": 375, "mm": 608.6}},
+  "text": {"rings": 527, "straight": {"n": 3322, "mm": 3787.5}, "curved": {"n": 906, "mm": 1479.2}}
+ },
+ "circles": [
+  {"c": [263.5, 253.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [263.5, 247.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 43,
+  "lines": [
+   {"mm": [31.5, 414.5, 55.3, 419.3], "text": "OAiDO"},
+   {"mm": [86.8, 414.5, 124.6, 419.3], "text": "EMSTENS"},
+   {"mm": [131.7, 367.9, 200.4, 377.2], "text": "1e4 CcyenTs"},
+   {"mm": [118.3, 357.7, 137.3, 364.0], "text": "4-97B"},
+   {"mm": [160.8, 357.7, 214.6, 364.0], "text": "VAtER \"CJiLE"},
+   {"mm": [45.8, 331.0, 74.3, 337.2], "text": "Fectioh"},
+   {"mm": [86.8, 305.7, 115.3, 310.5], "text": "Wanean"},
+   {"mm": [86.8, 299.5, 116.8, 304.3], "text": "Techcicni"},
+   {"mm": [85.3, 291.5, 149.8, 297.7], "text": "circui rescaiduon"},
+   {"mm": [85.3, 285.2, 102.6, 290.0], "text": "Fari"},
+   {"mm": [85.3, 277.4, 143.6, 283.7], "text": "Conntanr Lyjl:"},
+   {"mm": [85.3, 264.7, 116.8, 269.5], "text": "ADdengix"},
+   {"mm": [85.3, 252.2, 143.6, 258.4], "text": "3-103 Hacriplian"},
+   {"mm": [225.6, 252.2, 255.6, 257.0], "text": "G-171-"},
+   {"mm": [85.3, 245.9, 124.8, 250.7], "text": "6-TL Deris"},
+   {"mm": [225.6, 245.9, 255.6, 250.7], "text": "BSIce_2-1"},
+   {"mm": [85.3, 231.7, 116.8, 237.9], "text": "Euwinge"},
+   {"mm": [85.3, 219.1, 153.1, 225.4], "text": "4-370 Frenc Panci"},
+   {"mm": [225.6, 219.1, 263.4, 225.4], "text": "A497-0-ocs"},
+   {"mm": [85.3, 212.7, 145.1, 218.9], "text": "M-J7E Funcicne"},
+   {"mm": [225.6, 212.7, 263.4, 218.9], "text": "Aj4?-Dicm"},
+   {"mm": [85.3, 206.4, 145.1, 212.6], "text": "MI97e ACAtat"},
+   {"mm": [225.6, 206.4, 263.4, 211.2], "text": "Naa7_07-1nz"},
+   {"mm": [85.3, 198.6, 173.6, 204.9], "text": "Miati Cempenen Layobi"},
+   {"mm": [113.6, 192.4, 145.1, 198.6], "text": "Schenatic"},
+   {"mm": [225.6, 192.4, 269.9, 198.6], "text": "AP-109-0z-604"},
+   {"mm": [112.1, 184.4, 174.4, 193.7], "text": "Camden L,ou"},
+   {"mm": [85.3, 185.9, 107.3, 192.1], "text": "6-I0<"},
+   {"mm": [225.6, 185.9, 269.9, 192.1], "text": "Be-109-03-00+"},
+   {"mm": [251.7, 34.8, 306.1, 87.5], "text": "WNBSps ,"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–424 mm up",
+  "- **Outlines:** line 195 rings, 1,845 straight (4,574 mm) / 375 curved (609 mm); text 527 rings, 3,322 straight (3,788 mm) / 906 curved (1,479 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.7 @ (263.5, 253.7), r 1.7 @ (263.5, 247.1)",
+  "- **Words (OCR):** 43 in 30 lines: OAiDO · EMSTENS · 1e4 CcyenTs · 4-97B · VAtER \"CJiLE · Fectioh · Wanean · Techcicni · circui rescaiduon · Fari · Conntanr Lyjl: · ADdengix"
+ ]
+}

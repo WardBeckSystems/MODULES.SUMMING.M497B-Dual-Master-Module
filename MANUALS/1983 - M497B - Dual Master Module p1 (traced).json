@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/SUMMING/M497B/MANUALS/1983 - M497B - Dual Master Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/da430d63e545e8f3-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 23.7, 301.4, 424.2],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 621, "mm": 3020.9}, "curved": {"n": 47, "mm": 80.5}},
+  "text": {"rings": 163, "straight": {"n": 1784, "mm": 2472.1}, "curved": {"n": 379, "mm": 616.1}},
+  "tb": {"rings": 5, "straight": {"n": 21, "mm": 18.4}, "curved": {"n": 3, "mm": 4.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [117.4, 400.7, 279.8, 410.8], "text": "WARD-BECK SYSTEMS LTD;"},
+   {"mm": [48.8, 391.6, 277.4, 406.8], "text": "WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAC M1h 2*4"},
+   {"mm": [116.8, 390.6, 168.6, 396.1], "text": "Telex 065-25399"},
+   {"mm": [203.6, 390.6, 277.4, 396.1], "text": "TELEPHONE 4161438-655C"},
+   {"mm": [137.5, 234.3, 189.8, 248.2], "text": "M497B"},
+   {"mm": [145.7, 219.1, 218.1, 227.8], "text": "MASTER MODULE"},
+   {"mm": [118.7, 218.5, 141.8, 226.6], "text": "DUAL"},
+   {"mm": [215.9, 56.6, 263.2, 63.7], "text": "MANUAL ISSUE"},
+   {"mm": [215.3, 43.6, 270.3, 50.1], "text": "SEPTEMBER 1983"}
+  ]
+ },
+ "title_block": {
+  "mm": [110.6, 48.0, 270.0, 419.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD;",
+   "WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAC M1h 2*4",
+   "Telex 065-25399",
+   "TELEPHONE 4161438-655C",
+   "M497B",
+   "MASTER MODULE",
+   "DUAL",
+   "MANUAL ISSUE"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–301 mm across, 24–424 mm up",
+  "- **Outlines:** line 27 rings, 621 straight (3,021 mm) / 47 curved (80.5 mm); text 163 rings, 1,784 straight (2,472 mm) / 379 curved (616 mm); tb 5 rings, 21 straight (18.4 mm) / 3 curved (4.0 mm)",
+  "- **Words (OCR):** 16 in 9 lines: WARD-BECK SYSTEMS LTD; · WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAC M1h 2*4 · Telex 065-25399 · TELEPHONE 4161438-655C · M497B · MASTER MODULE · DUAL · MANUAL ISSUE · SEPTEMBER 1983",
+  "- **Title block:** (111, 48)–(270, 419) mm: WARD-BECK SYSTEMS LTD; · WES 841 PAOGAESS AVENUE SCAABOAOUGH ONTAAC M1h 2*4 · Telex 065-25399 · TELEPHONE 4161438-655C · M497B · MASTER MODULE · DUAL · MANUAL ISSUE"
+ ]
+}

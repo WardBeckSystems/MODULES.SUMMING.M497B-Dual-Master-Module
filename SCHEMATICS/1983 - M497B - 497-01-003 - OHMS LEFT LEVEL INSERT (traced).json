@@ -1,0 +1,120 @@
+{
+ "drawing": "Modules/SUMMING/M497B/SCHEMATICS/1983 - M497B - 497-01-003 - OHMS LEFT LEVEL INSERT.jpg",
+ "version": 1,
+ "trace": "_traces/a2968943806a868d.svg",
+ "sheet": {
+  "number": "497-01-003",
+  "title": "Ohms Left Level Insert",
+  "dtype": "01",
+  "type": "functional",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.4, 335.4, 420.1],
+ "outlines": {
+  "line": {"rings": 50, "straight": {"n": 1575, "mm": 4491.1}, "curved": {"n": 203, "mm": 287.1}},
+  "text": {"rings": 150, "straight": {"n": 1174, "mm": 1399.5}, "curved": {"n": 338, "mm": 532.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 357, "straight": {"n": 458, "mm": 2310.8}, "curved": {"n": 6, "mm": 9.0}},
+   "text": {"paths": 859, "straight": {"n": 1177, "mm": 924.9}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 23,
+  "orientation": {"horizontal": {"n": 369, "mm": 1605.5}, "vertical": {"n": 426, "mm": 666.4}, "diagonal": {"n": 840, "mm": 963.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [150.8, 301.3], "r": 2.8, "kind": "arc", "span": 82, "from": ["centre line"], "start": 7},
+  {"c": [301.2, 254.7], "r": 1.8, "kind": "arc", "span": 170, "from": ["centre line"], "start": 85}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [224.5, 321.3, 239.6, 327.7], "text": "LEFT"},
+   {"mm": [223.0, 315.2, 241.8, 321.7], "text": "LEVEL"},
+   {"mm": [156.1, 304.4, 179.2, 310.9], "text": "INSERT"},
+   {"mm": [9.5, 297.9, 61.1, 304.9], "text": "SUMMING INPUT"},
+   {"mm": [105.8, 297.9, 118.7, 304.4], "text": "PRE"},
+   {"mm": [252.2, 297.3, 270.1, 303.8], "text": "[8.109C"},
+   {"mm": [8.2, 278.1, 63.9, 284.6], "text": "EXTERNAL INPUT"},
+   {"mm": [28.5, 265.6, 46.4, 272.0], "text": "0 dBu"},
+   {"mm": [20.1, 257.1, 59.8, 265.1], "text": "Re 600 ohms"},
+   {"mm": [221.9, 202.9, 241.4, 209.4], "text": "RighT"},
+   {"mm": [221.9, 196.9, 240.3, 203.4], "text": "LEVEL"},
+   {"mm": [9.3, 178.1, 62.2, 185.0], "text": "SUMMING INPUT"},
+   {"mm": [105.4, 178.1, 117.7, 184.6], "text": "PRE"},
+   {"mm": [251.5, 178.5, 269.9, 185.0], "text": "8.109C"},
+   {"mm": [7.3, 157.6, 63.9, 165.8], "text": "EXTERNAL INPUT"},
+   {"mm": [29.4, 150.3, 46.0, 155.8], "text": "0 dBu"},
+   {"mm": [20.5, 142.1, 59.8, 148.5], "text": "Re 60 0 ohms"}
+  ]
+ },
+ "dots": [],
+ "nets": {
+  "groups": 43,
+  "wire_runs": 78,
+  "dotted_junctions": 0,
+  "note": "first pass: horizontal / vertical centre-line runs of 0.8 mm or more, joined end to end; groups under 5 mm left out; components (diagonal or curved ink) separate groups; labels are OCR words within 5 mm of a free end; long straight lines along the frame left out",
+  "list": [
+   {"mm": 141.2, "runs": 7, "ends": 5, "bbox": [272.9, 152.9, 334.6, 220.6], "labels": ["8.109C"]},
+   {"mm": 139.7, "runs": 7, "ends": 5, "bbox": [273.1, 263.4, 334.9, 301.4], "labels": ["[8.109C"]},
+   {"mm": 60.7, "runs": 5, "ends": 4, "bbox": [75.1, 290.0, 104.1, 312.8], "labels": ["PRE"]},
+   {"mm": 58.7, "runs": 6, "ends": 4, "bbox": [74.5, 170.8, 103.8, 193.2], "labels": ["PRE"]},
+   {"mm": 50.3, "runs": 3, "ends": 3, "bbox": [302.0, 233.0, 334.4, 251.7], "labels": []},
+   {"mm": 40.4, "runs": 3, "ends": 3, "bbox": [233.4, 170.1, 251.5, 193.0], "labels": ["8.109C"]},
+   {"mm": 35.4, "runs": 3, "ends": 3, "bbox": [237.3, 289.3, 252.4, 310.7], "labels": ["[8.109C"]},
+   {"mm": 28.1, "runs": 1, "ends": 2, "bbox": [125.2, 301.6, 153.3, 301.6], "labels": ["PRE", "INSERT"]},
+   {"mm": 27.4, "runs": 1, "ends": 2, "bbox": [125.0, 181.8, 152.4, 182.0], "labels": ["PRE"]},
+   {"mm": 26.6, "runs": 1, "ends": 2, "bbox": [177.7, 122.4, 204.2, 122.6], "labels": []},
+   {"mm": 24.6, "runs": 1, "ends": 2, "bbox": [277.9, 331.6, 302.5, 331.6], "labels": []},
+   {"mm": 24.6, "runs": 1, "ends": 2, "bbox": [295.8, 122.4, 320.4, 122.4], "labels": []},
+   {"mm": 23.5, "runs": 1, "ends": 2, "bbox": [211.6, 331.6, 235.1, 331.8], "labels": ["LEFT"]},
+   {"mm": 23.3, "runs": 1, "ends": 2, "bbox": [218.3, 122.4, 241.6, 122.6], "labels": []},
+   {"mm": 23.3, "runs": 1, "ends": 2, "bbox": [256.7, 122.6, 280.0, 122.6], "labels": []},
+   {"mm": 22.2, "runs": 1, "ends": 2, "bbox": [138.8, 122.8, 161.1, 122.8], "labels": []},
+   {"mm": 22.2, "runs": 1, "ends": 2, "bbox": [178.1, 332.1, 200.4, 332.1], "labels": []},
+   {"mm": 22.0, "runs": 1, "ends": 2, "bbox": [145.1, 332.1, 167.1, 332.1], "labels": []},
+   {"mm": 20.9, "runs": 1, "ends": 2, "bbox": [103.2, 122.6, 124.1, 122.8], "labels": []},
+   {"mm": 20.9, "runs": 1, "ends": 2, "bbox": [244.2, 331.6, 265.1, 331.8], "labels": ["LEFT"]},
+   {"mm": 19.6, "runs": 2, "ends": 2, "bbox": [184.4, 301.4, 203.4, 302.3], "labels": ["INSERT"]},
+   {"mm": 19.2, "runs": 1, "ends": 2, "bbox": [315.4, 331.6, 334.6, 331.6], "labels": []},
+   {"mm": 18.6, "runs": 1, "ends": 2, "bbox": [184.2, 182.0, 202.7, 182.0], "labels": []},
+   {"mm": 18.1, "runs": 1, "ends": 2, "bbox": [75.1, 272.5, 93.3, 272.7], "labels": []},
+   {"mm": 17.9, "runs": 1, "ends": 2, "bbox": [74.9, 153.3, 92.8, 153.3], "labels": []},
+   {"mm": 17.9, "runs": 1, "ends": 2, "bbox": [115.7, 332.1, 133.6, 332.3], "labels": []},
+   {"mm": 17.5, "runs": 2, "ends": 2, "bbox": [84.2, 122.8, 93.9, 131.1], "labels": []},
+   {"mm": 17.3, "runs": 1, "ends": 2, "bbox": [214.2, 301.2, 231.4, 301.4], "labels": []},
+   {"mm": 16.8, "runs": 1, "ends": 2, "bbox": [84.6, 186.5, 84.6, 203.4], "labels": []},
+   {"mm": 16.8, "runs": 1, "ends": 2, "bbox": [87.4, 332.3, 104.3, 332.3], "labels": []},
+   {"mm": 16.8, "runs": 1, "ends": 2, "bbox": [213.7, 182.0, 230.6, 182.0], "labels": []},
+   {"mm": 16.6, "runs": 1, "ends": 2, "bbox": [84.6, 212.7, 84.8, 229.3], "labels": []},
+   {"mm": 15.3, "runs": 1, "ends": 2, "bbox": [84.8, 240.9, 84.8, 256.3], "labels": []},
+   {"mm": 14.7, "runs": 1, "ends": 2, "bbox": [85.1, 305.3, 85.1, 320.0], "labels": []},
+   {"mm": 13.0, "runs": 1, "ends": 2, "bbox": [84.2, 137.1, 84.4, 150.1], "labels": []},
+   {"mm": 11.4, "runs": 1, "ends": 2, "bbox": [323.2, 271.8, 334.6, 271.8], "labels": []},
+   {"mm": 10.8, "runs": 1, "ends": 2, "bbox": [84.4, 168.4, 84.6, 179.2], "labels": []},
+   {"mm": 9.3, "runs": 1, "ends": 2, "bbox": [93.3, 153.7, 93.3, 163.0], "labels": []},
+   {"mm": 9.1, "runs": 1, "ends": 2, "bbox": [325.8, 152.4, 334.9, 152.6], "labels": []},
+   {"mm": 8.2, "runs": 1, "ends": 2, "bbox": [84.8, 276.6, 85.1, 284.8], "labels": []},
+   {"mm": 6.3, "runs": 1, "ends": 2, "bbox": [85.1, 291.2, 85.1, 297.5], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [84.4, 157.0, 84.4, 162.4], "labels": []},
+   {"mm": 5.4, "runs": 1, "ends": 2, "bbox": [93.7, 274.4, 93.7, 279.8], "labels": []}
+  ]
+ },
+ "summary": [
+  "- **Sheet:** functional 497-01-003, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–335 mm across, 2–420 mm up",
+  "- **Outlines:** line 50 rings, 1,575 straight (4,491 mm) / 203 curved (287 mm); text 150 rings, 1,174 straight (1,400 mm) / 338 curved (532 mm)",
+  "- **Centre lines:** 1,216 paths (23 closed); straight 3,236 mm, curved 9.0 mm; horizontal 1,606 mm, vertical 666 mm, diagonal 964 mm",
+  "- **Circles and arcs:** 0 circles, 2 arcs",
+  "- **Words (OCR):** 21 in 17 lines: LEFT · LEVEL · INSERT · SUMMING INPUT · PRE · [8.109C · EXTERNAL INPUT · 0 dBu · Re 600 ohms · RighT · LEVEL · SUMMING INPUT",
+  "- **Wiring (first pass):** 43 connected wire groups from 78 runs; labelled ends: 141 mm → 8.109C; 140 mm → [8.109C; 61 mm → PRE; 59 mm → PRE; 40 mm → 8.109C"
+ ]
+}

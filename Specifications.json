@@ -1,0 +1,168 @@
+{
+ "module": "M497B",
+ "title": "M497B DUAL MASTER MODULE",
+ "source": {
+  "file": "MANUALS/1983 - M497B - P003 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "dB +/-0.5 dB nominal +2, dB provided. trim range",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+0/-1 dB from Hz kHz (tailored frequency response) dB below dBu nominal output level (20 Hz 20 kHz) =",
+   "quantities": [
+    {
+     "value": -1,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "",
+   "items": [
+    {
+     "name": "Harmonic distortion",
+     "text": "Less than 0.259% THD, from Hz 20 kHz +27 dBm output less _ Less than 0.1% at kHz at +27 dBm output",
+     "quantities": [
+      {
+       "value": 0.259,
+       "unit": "%"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      },
+      {
+       "value": 27,
+       "unit": "dBm"
+      },
+      {
+       "value": 0.1,
+       "unit": "%"
+      },
+      {
+       "value": 27,
+       "unit": "dBm"
+      }
+     ],
+     "key": "harmonic_distortion"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "External Oo0 ohms, balanced 600 ohms ma imum, balanced",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "ohms"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Summing",
+     "text": "External Less than ohms _ 30,000 ohms",
+     "quantities": [
+      {
+       "value": 30000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "summing"
+    },
+    {
+     "name": "Input level",
+     "text": "External dBm nominal +16 dBm maximum.",
+     "quantities": [
+      {
+       "value": 16,
+       "unit": "dBm"
+      }
+     ],
+     "key": "input_level"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Program",
+     "text": "Mono: 150 ohms; balanced 36,000 ohms, balanced",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      },
+      {
+       "value": 36000,
+       "unit": "ohms"
+      }
+     ],
+     "key": "program"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Program",
+     "text": "Mono: 600 ohms, balanced Summing, less than ohms, balanced",
+     "quantities": [
+      {
+       "value": 600,
+       "unit": "ohms"
+      }
+     ],
+     "key": "program"
+    }
+   ]
+  }
+ ]
+}

@@ -13,6 +13,74 @@ Ward-Beck Systems M497B, 1983|16. Wiki page: [M497B on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1983 - M497B - P003 - 1-1.jpg](MANUALS/1983%20-%20M497B%20-%20P003%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | dB +/-0.5 dB nominal +2, dB provided. trim range |
+| **Frequency response** | +0/-1 dB from Hz kHz (tailored frequency response) dB below dBu nominal output level (20 Hz 20 kHz) = |
+| **Noise** |  |
+| &nbsp;&nbsp;Harmonic distortion | Less than 0.259% THD, from Hz 20 kHz +27 dBm output less _ Less than 0.1% at kHz at +27 dBm output |
+| **Source impedances** |  |
+| &nbsp;&nbsp;Summing | External Oo0 ohms, balanced 600 ohms ma imum, balanced |
+| **Input impedances** |  |
+| &nbsp;&nbsp;Summing | External Less than ohms _ 30,000 ohms |
+| &nbsp;&nbsp;Input level | External dBm nominal +16 dBm maximum. |
+| **Output impedances** |  |
+| &nbsp;&nbsp;Program | Mono: 150 ohms; balanced 36,000 ohms, balanced |
+| **Load impedances** |  |
+| &nbsp;&nbsp;Program | Mono: 600 ohms, balanced Summing, less than ohms, balanced |
+
+## Circuit description
+
+From [1983 - M497B - Dual Master Module (2).pdf](MANUALS/1983%20-%20M497B%20-%20Dual%20Master%20Module%20(2).pdf) pages 5-7 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M497 B.. cc om mo dates two s.. pa..a te signal chan n.. l s. I t is d.. sign..d to ee e tve t h.. mixed feeds from I h.. I.. ft and.. i g h t mix.... buses o f a conso l... T h.. two sl g n.. l s...... independently processed and.. mp llfi e d 10 stan da.. d line I e v ete • The outputs. oft h e M497B supply the main p rog..a m outputs oft h.. consoles y stem. Both channel sop....a te ina s imlla.. mann e... Th.. following d e sc.. ipt ion.... r.... s specifically to th.. LEFT c h.. nn.. l.
+
+The signal originating from t h.... &quot;1.... '1.. 1 m i&quot;i n g n etwo..k en t.... s t h.. module a t pins l / A and i s applied tot h.. summing Cu r-r-e n t nod.. s o f Ul.. ndU2.
+
+U l through U3, with t hei.. assocla t.. d components, prov ld.. a n.. ctiv ely bal.. nc e din put as w.. 11.. 5.. b al.. oc ee output. T h.. output ec....... t.. s.. t.. nomln.. 1 l eve 1 of 0 dGu.. nd.. pp......s a t pins 6/F.
+
+A b.. i e e e.. d INSC RT point is provid.. d b.. t ween pins 6/F and 8J, p.... mitt ing t h.. ins.... tion of an.. &quot; t.... nal.. qu.. lize.., filt.... 0.. co m_ p ~s s o&quot;,.. i t h.... using an M499 in s.. rt switch.... orb y d lr..ct w i.. lng.
+
+L.. v.. 1 Adjustment
+
+From the INSERT point, the $I g n ali s.... turned tot h e module a t pins 8 /J and f.. d tot h.. a-10ge output amp ll fie.. via ana tt.. nu ato&quot; n.. two.. k. R4 2 I s a level t.. im potentlomet e.. p.. rmitting adj u s tm.. n t oft h e module output l ev.. 1 from +2 to +10 dBu with r.. f....enc e tot h e nominal l.. v.. 1 of +8 dBu. A small hoi.. int h.. module front pane 1 allows aCcesS tot h e I.. i m control.
+
+The a_I09C output.. mpllf i.... op er.. t.. s with again of 39 dB. It r eco v....,. the loss oft h.. input netwo..k and p..o vl d es add i t i o na l gain to produce a nom in.. 1 lin.. level of +8 dBu Into 600 ohms a t the output of I he module.
+
+A 150 ohm..es is t l v e dlv1ding network, having a loss of 2 dB (wh.. n
+
+operated into a 600 ohm load), is i n s.. rt.. d bet we l!(&gt; t h.. a _109C and
+
+t h.. t h..ee mod ul.. outputs a t pins 12/N, 13/ Pan d 14/R. T h.. amplifier outputs...... designed to no..mally op...... te into a b.. idg ing load (5K
+
+ohms). Th.. amplfi erIs capable of delivering ama &quot;i mum output I..v e l
+
+o f +27 dBm into 600 ohms a tan yon.. of its outputs (not all loaded s i multan..ou sly).
+
+**&quot;&quot;. 9 78 DUAL &quot;&quot;AST ER MODULE**
+
+RIGHT Ch. n n e l. n d MOHO OUl ou l
+
+Th.,.Ight channel o f I I\e 104.9 78 op.,.. tes in • m. n n er s l ml la &quot; 10 Ihe left ch.nnel. s de s.c;rib ed e eev •.
+
+For the &quot;&quot;ONO ou tp u l, bolh d' anne ls..... combined and apoea,. et pins 1 1/ &quot;&quot;. The signal leva loft his OUlpu l is such that,...l\en connected 10 Ihe summing inp u l o f a second &quot;&quot;.978, It... ill produce a n ou toU I o f +8 dBu,... il h the l. ft 0,.,.i g h l c h&quot;nn aloft h eli,.SI unit ope,.al ing &quot; I +8 dB u (Re 600 oh ms).
+
+Po.....,.. Supp l... Dec oup l ln g
+
+An.. cti v.. po&quot;,.,.. supply dec o up lln g n el...o,..k con si Sl l n g o f 01 Ihroug h 06 provides i sol al'o'&quot; bet &quot;, e.... Ih e module and the +/ _2! volts u p ply,.... 11'. transistors OJ and 06 monllor Ih e supply current. In the event of e &gt;&lt;ce s slve power ' u p ply demands, such a s from component failure 01&quot; amplifier ov erdri v.., the current flow, n g through 01 and 04 will b e limited.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

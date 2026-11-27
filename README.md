@@ -1,16 +1,16 @@
-# M497B · Summing
+# M497B Dual Master Module · Summing
 
 Ward-Beck Systems M497B, 1983|16. Wiki page: [M497B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M497B.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 194 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 195 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -96,8 +96,8 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTjlweThZLVlLc00/view?resourcekey=0-x8uqZ6Uo9F-lEjoCWvxxPQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTjlweThZLVlLc00&resourcekey=0-x8uqZ6Uo9F-lEjoCWvxxPQ" width="240" alt="1983 - M497B - 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS.jpg"></a><br><sub>1983|16 · 491-02-002 - ARS FROHT AANEL LEVEL CONTROLS · <a href="SCHEMATICS/1983%20-%20M497B%20-%20491-02-002%20-%20ARS%20FROHT%20AANEL%20LEVEL%20CONTROLS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkVnZ3VPZVNSZ0U/view?resourcekey=0-fx7TAFHhRNs38W_DEc1qow" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkVnZ3VPZVNSZ0U&resourcekey=0-fx7TAFHhRNs38W_DEc1qow" width="240" alt="1983 - M497B - 497-01-003 - OHMS LEFT LEVEL INSERT.jpg"></a><br><sub>1983|16 · 497-01-003 - OHMS LEFT LEVEL INSERT · <a href="SCHEMATICS/1983%20-%20M497B%20-%20497-01-003%20-%20OHMS%20LEFT%20LEVEL%20INSERT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWmVWUkhqZVBJVTg/view?resourcekey=0-f8O8P5OnMwZjmfaWNqPLSQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWmVWUkhqZVBJVTg&resourcekey=0-f8O8P5OnMwZjmfaWNqPLSQ" width="240" alt="1983 - M497B - 497-01-003 - OUU ONMS.jpg"></a><br><sub>1983|16 · 497-01-003 - OUU ONMS · <a href="SCHEMATICS/1983%20-%20M497B%20-%20497-01-003%20-%20OUU%20ONMS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKalQ3TTktMWdIeGc/view?resourcekey=0-sEi_XIU50w1cALXGRLqhBA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKalQ3TTktMWdIeGc&resourcekey=0-sEi_XIU50w1cALXGRLqhBA" width="240" alt="1983 - M497B - 497-02-002 - CRI TIP.jpg"></a><br><sub>1983|16 · 497-02-002 - CRI TIP · <a href="SCHEMATICS/1983%20-%20M497B%20-%20497-02-002%20-%20CRI%20TIP%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeUYtTmpCdUhwc00/view?resourcekey=0-yqnF0UbpTf3sjRknptYcvA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeUYtTmpCdUhwc00&resourcekey=0-yqnF0UbpTf3sjRknptYcvA" width="240" alt="1983 - M497B - 497-06-005 - DUAL MASTER MODULE.jpg"></a><br><sub>1983|16 · 497-06-005 - DUAL MASTER MODULE · <a href="SCHEMATICS/1983%20-%20M497B%20-%20497-06-005%20-%20DUAL%20MASTER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUlNfZGZoRWtsNm8/view?resourcekey=0-ydOvPLwO6ouo715Ni5KyWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUlNfZGZoRWtsNm8&resourcekey=0-ydOvPLwO6ouo715Ni5KyWQ" width="240" alt="1983 - M497B - 497-06-005 - TIPSOD WIPZST.jpg"></a><br><sub>1983|16 · 497-06-005 - TIPSOD WIPZST · <a href="SCHEMATICS/1983%20-%20M497B%20-%20497-06-005%20-%20TIPSOD%20WIPZST%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOURQbURtdkpXekk/view?resourcekey=0--3FgDo-BiCoFLT5N5iSwhQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOURQbURtdkpXekk&resourcekey=0--3FgDo-BiCoFLT5N5iSwhQ" width="240" alt="1983 - M497B - 8-109-02-004 - NOMINAL VALUE (2).jpg"></a><br><sub>1983|16 · 8-109-02-004 - NOMINAL VALUE (2)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkxSZ0k5akpna28/view?resourcekey=0-pX-NFSFrOykzjQ-UKarXNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkxSZ0k5akpna28&resourcekey=0-pX-NFSFrOykzjQ-UKarXNw" width="240" alt="1983 - M497B - 8-109-02-004 - NOMINAL VALUE.jpg"></a><br><sub>1983|16 · 8-109-02-004 - NOMINAL VALUE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVlhheEZoMmswZWs/view?resourcekey=0-_WKNV23e-aodqfdDmojWHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVlhheEZoMmswZWs&resourcekey=0-_WKNV23e-aodqfdDmojWHg" width="240" alt="1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1983|16 · 8-109-06-004 - BOOSTER AMPLIFIER</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTHVoU2pGS1ZnMHM/view?resourcekey=0-HOXlcrRcauG4IXFo4R0tNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTHVoU2pGS1ZnMHM&resourcekey=0-HOXlcrRcauG4IXFo4R0tNw" width="240" alt="1983 - M497B - 8-109-06-004.jpg"></a><br><sub>1983|16 · 8-109-06-004</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKOURQbURtdkpXekk/view?resourcekey=0--3FgDo-BiCoFLT5N5iSwhQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKOURQbURtdkpXekk&resourcekey=0--3FgDo-BiCoFLT5N5iSwhQ" width="240" alt="1983 - M497B - 8-109-02-004 - NOMINAL VALUE (2).jpg"></a><br><sub>1983|16 · 8-109-02-004 - NOMINAL VALUE (2) · <a href="SCHEMATICS/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkxSZ0k5akpna28/view?resourcekey=0-pX-NFSFrOykzjQ-UKarXNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkxSZ0k5akpna28&resourcekey=0-pX-NFSFrOykzjQ-UKarXNw" width="240" alt="1983 - M497B - 8-109-02-004 - NOMINAL VALUE.jpg"></a><br><sub>1983|16 · 8-109-02-004 - NOMINAL VALUE · <a href="SCHEMATICS/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVlhheEZoMmswZWs/view?resourcekey=0-_WKNV23e-aodqfdDmojWHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVlhheEZoMmswZWs&resourcekey=0-_WKNV23e-aodqfdDmojWHg" width="240" alt="1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER.jpg"></a><br><sub>1983|16 · 8-109-06-004 - BOOSTER AMPLIFIER · <a href="SCHEMATICS/1983%20-%20M497B%20-%208-109-06-004%20-%20BOOSTER%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTHVoU2pGS1ZnMHM/view?resourcekey=0-HOXlcrRcauG4IXFo4R0tNw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTHVoU2pGS1ZnMHM&resourcekey=0-HOXlcrRcauG4IXFo4R0tNw" width="240" alt="1983 - M497B - 8-109-06-004.jpg"></a><br><sub>1983|16 · 8-109-06-004 · <a href="SCHEMATICS/1983%20-%20M497B%20-%208-109-06-004%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Pinouts
@@ -156,12 +156,19 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1983 - M497B - 497-01-003 - OHMS LEFT LEVEL INSERT.kicad_sch](KICAD/1983%20-%20M497B%20-%20497-01-003%20-%20OHMS%20LEFT%20LEVEL%20INSERT.kicad_sch)
 - [1983 - M497B - 497-01-003 - OUU ONMS.kicad_sch](KICAD/1983%20-%20M497B%20-%20497-01-003%20-%20OUU%20ONMS.kicad_sch)
 - [1983 - M497B - 497-02-002 - CRI TIP.kicad_sch](KICAD/1983%20-%20M497B%20-%20497-02-002%20-%20CRI%20TIP.kicad_sch)
+- [1983 - M497B - 8-109-02-004 - NOMINAL VALUE (2).kicad_sch](KICAD/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE%20(2).kicad_sch)
+- [1983 - M497B - 8-109-02-004 - NOMINAL VALUE.kicad_sch](KICAD/1983%20-%20M497B%20-%208-109-02-004%20-%20NOMINAL%20VALUE.kicad_sch)
 - [1983 - M497B - Dual Master Module (2) p21.kicad_sch](KICAD/1983%20-%20M497B%20-%20Dual%20Master%20Module%20(2)%20p21.kicad_sch)
 - [1983 - M497B - Dual Master Module (2) p27.kicad_sch](KICAD/1983%20-%20M497B%20-%20Dual%20Master%20Module%20(2)%20p27.kicad_sch)
 - [1983 - M497B - Dual Master Module p21.kicad_sch](KICAD/1983%20-%20M497B%20-%20Dual%20Master%20Module%20p21.kicad_sch)
 - [1983 - M497B - Dual Master Module p23.kicad_sch](KICAD/1983%20-%20M497B%20-%20Dual%20Master%20Module%20p23.kicad_sch)
 - [1983 - M497B - Dual Master Module p27.kicad_sch](KICAD/1983%20-%20M497B%20-%20Dual%20Master%20Module%20p27.kicad_sch)
 - [M497B.kicad_sym](KICAD/M497B.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

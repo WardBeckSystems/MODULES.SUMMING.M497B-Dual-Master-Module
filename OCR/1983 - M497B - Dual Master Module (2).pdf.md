@@ -1,5 +1,5 @@
 # 1983 - M497B - Dual Master Module (2).pdf
-Wiki page: [M497B](../../../../PAGES/M497B.md)
+Wiki page: [M497B](../)
 
 
 - **Year:** 1983 (found in this file: "I SSUE If! W SEPTEMBER 1983")

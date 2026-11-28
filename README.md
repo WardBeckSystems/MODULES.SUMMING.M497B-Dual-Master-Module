@@ -1,6 +1,6 @@
 # M497B Dual Master Module · Summing
 
-Ward-Beck Systems M497B, 1983|16. Wiki page: [M497B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M497B.html)
+Ward-Beck Systems M497B, 1983|16. Wiki page: [M497B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M497B-Dual-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

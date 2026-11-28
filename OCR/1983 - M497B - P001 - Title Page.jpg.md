@@ -1,5 +1,5 @@
 # 1983 - M497B - P001 - Title Page.jpg
-Wiki page: [M497B](../../../../PAGES/M497B.md)
+Wiki page: [M497B](../)
 
 
 - **Year:** 1983 (found in this file: "MANUAL ISSUE #1 SEPTEMBER 1983")

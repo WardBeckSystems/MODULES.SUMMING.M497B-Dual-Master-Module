@@ -1,5 +1,5 @@
 # 1983 - M497B - 8-109-06-004 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M497B](../../../../PAGES/M497B.md)
+Wiki page: [M497B](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))
